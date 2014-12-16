@@ -1,0 +1,14 @@
+item.GlowingItem.name=Glowing Item
+item.GlowingPickaxe.name=Glowing Pickaxe
+item.GlowingAxe.name=Glowing Axe
+item.GlowingShovel.name=Glowing Shovel
+item.GlowingHoe.name=Glowing Hoe
+item.GlowingSword.name=Glowing Sword
+item.GlowingIngot.name=Glowing Ingot
+item.GlowingHelmet.name=Glowing Helmet
+item.GlowingChestplate.name=Glowing Chestplate
+item.GlowingLeggings.name=Glowing Leggings
+item.GlowingBoots.name=Glowing Boots
+tile.GlowingBlock.name=Glowing Block
+tile.GlowingOre.name=Glowing Ore
+itemGroup.tabGlowing=GlowingTools

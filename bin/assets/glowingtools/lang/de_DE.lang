@@ -1,0 +1,14 @@
+item.GlowingItem.name=Leuchtendes Item
+item.GlowingPickaxe.name=Leuchtende Spitzhacke
+item.GlowingAxe.name=Leuchtende Axt
+item.GlowingShovel.name=Leuchtende Schaufel
+item.GlowingHoe.name=Leuchtende Hacke
+item.GlowingSword.name=Leuchtendes Schwert
+item.GlowingIngot.name=Leuchtender Erzbarren
+item.GlowingHelmet.name=Leuchtender Helm
+item.GlowingChestplate.name=Leuchtende Brustplatte
+item.GlowingLeggings.name=Leuchtende Hose
+item.GlowingBoots.name=Leuchtende Stiefel
+tile.GlowingBlock.name=Leuchtender Block
+tile.GlowingOre.name=Leuchtendes Erz
+itemGroup.tabGlowing=GlowingTools

@@ -1,0 +1,16 @@
+[22:24:30] [main/INFO]: Setting user: Player265
+[22:24:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:24:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:GlowingTools
+[22:24:35] [Sound Library Loader/INFO]: Sound engine started
+[22:24:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:24:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:24:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:GlowingTools
+[22:24:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:24:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:24:37] [Sound Library Loader/INFO]: Sound engine started
+[22:24:38] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[22:24:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[22:24:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[22:25:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[22:25:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[22:25:03] [Client thread/INFO]: Stopping!

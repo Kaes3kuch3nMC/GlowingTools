@@ -1,0 +1,16 @@
+[
+{
+  "modid": "GlowingTools",
+  "name": "GlowingTools",
+  "description": "Adds some new tools to the game which are made from a mysterious glowing material.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "http://kaes3kuch3n.tk/mods",
+  "updateUrl": "",
+  "authorList": ["Kaes3kuch3n"],
+  "credits": "Thanks to DeBukkIt: He was a very good teacher!",
+  "logoFile": "assets/glowingtools/textures/logo.png",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]
